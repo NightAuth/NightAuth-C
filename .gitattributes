@@ -1,0 +1,11 @@
+# GitHub Linguist language overrides & vendored directories
+
+# Vendored third-party dependencies (excluded from language statistics)
+deps/** linguist-vendored
+
+# Generated assets
+desktop/logo_data.h linguist-generated=true
+
+# Language definitions
+*.h linguist-language=C
+*.c linguist-language=C

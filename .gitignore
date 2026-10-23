@@ -1,0 +1,27 @@
+## Visual Studio / C / MSBuild
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.lastbuildstate
+
+## Crash reports / dumps
+*.dmp
+*.dump
+*.crash
